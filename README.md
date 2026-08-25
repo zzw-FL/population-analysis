@@ -1,8 +1,7 @@
 # Population analysis
 
-Curated population-genomics workflows from the China Cycas project.
-Representative scripts were selected and sample-specific or function-duplicated
-copies were removed.
+Curated population-genomics workflows. Representative scripts were selected
+and sample-specific or function-duplicated copies were removed.
 
 ## Directories
 
