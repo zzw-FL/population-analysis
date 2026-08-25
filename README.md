@@ -1,8 +1,8 @@
 # Population analysis
 
-Curated population-genomics workflows from the cluster `09.china_cycas`
-project. Representative scripts were selected and sample-specific or
-function-duplicated copies were removed.
+Curated population-genomics workflows from the China Cycas project.
+Representative scripts were selected and sample-specific or function-duplicated
+copies were removed.
 
 ## Directories
 
